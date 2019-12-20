@@ -1,0 +1,71 @@
+  body {
+      background-color: #c9f5e9;
+      font-size:1.5em;
+      margin: 2100x;
+  }
+
+  h1 {
+      color: #247190;
+      background-color:#c9f5e9 ;
+  }
+
+  p {
+      color: black;
+      font-size: 20px;
+  font-size:1.5em;
+      margin: 100x;
+
+}
+
+  a {
+      color: #247190;
+      font-size: Impact;
+  }
+
+  .buttons {
+      font-size: 30px;
+      text-align: center;
+
+  }
+
+  .btn-text {
+      color: #247190;
+
+      background-color: #b9c9cd;
+      border-radius: 50px;
+
+      padding: 10px 20px;
+      margin-right: 20px;
+
+      text-decoration: none;
+      transition: all .3s;
+  }
+
+
+
+
+  .btn-text:hover {
+      background-color: #583e36;
+  }
+
+
+  .button {
+      font-size: 30px;
+      text-align: center;
+  }
+
+  .single-btn {
+      color: #247190;
+
+      background-color: #b9c9cd;
+      border-radius: 50px;
+
+      padding: 10px 20px;
+
+      text-decoration: none;
+      transition: all .3s;
+  }
+
+  .single-btn:hover {
+      background-color: #583e36;
+  }
